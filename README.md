@@ -8,6 +8,8 @@ opening README.md..
 
 loaded README.md
 
+----------------
+
 name: Daylin 👨 |
 
 favorite thing to do: coding 👩‍💻 |
