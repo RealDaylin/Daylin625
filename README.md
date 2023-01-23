@@ -24,3 +24,4 @@ gender: male ♂ |
 // social media
 
 - YouTube: https://www.youtube.com/@RealDaylin
+- Roblox: https://web.roblox.com/users/3159946887/profile
