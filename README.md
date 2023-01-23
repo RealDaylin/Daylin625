@@ -18,9 +18,8 @@ gender: male ♂ |
 
 // coding on what?
 
-- currently working on: a website 🌐 |
-- currently working on: a roblox game 🎮 |
-- currently learning: C# ⌨️
+- currently working on: a website 🌐 and a roblox game 🎮 |
+- currently learning: C# ⌨️ |
 
 // social media
 
